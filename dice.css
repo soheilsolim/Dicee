@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #BAD7E9;
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 rgb(36, 23, 94);
+  font-size: 6rem;
+  color: #2B3467;
+}
+
+p {
+  font-size: 2rem;
+  color: #EB455F;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #FCFFE7;
+  text-align: center;
+
+}
+.aprofile{
+  color:#EB455F;
+}
